@@ -1,1 +1,2 @@
-Master mode
+Parallel mode
+
