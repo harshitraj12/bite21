@@ -1,4 +1,1 @@
-Hello . This is file1
-Adding login page.
-Adding nav bar
-Added dateTimeTesting Done.
+file1.txt
